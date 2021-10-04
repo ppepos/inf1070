@@ -9,4 +9,4 @@ title: INF1070 - Accueil
 * [Forum de discussion](https://mattermost.info.uqam.ca/forum/channels/inf1070)
 * [Slides](https://github.com/ppepos/inf1070/tree/master/pres)
 * [Repo des laboratoires](https://gitlab.info.uqam.ca/inf1070/labs)
-
+* [Page des TPs](tps.md)
