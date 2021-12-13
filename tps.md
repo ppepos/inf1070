@@ -30,8 +30,10 @@ Pour la question 5, `gash check` ne valide pas la mission mais je suis certain q
 # TP 2: Administration système
 
  - L'énoncé est disponible sur [ici](https://gitlab.info.uqam.ca/inf1070/213-TP2/)
- - Date de remise: TBD
+ - Date de remise: 15 décembre 2021 23h55
  - La remise sera faite sur le moodle de votre groupe ainsi que sur votre onedrive de l'UQAM.
  - Voir l'énoncé pour le reste de modalités de remise.
 
 ## FAQ
+
+ - Voir le bas de l'énoncé.
