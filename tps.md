@@ -34,6 +34,10 @@ Pour la question 5, `gash check` ne valide pas la mission mais je suis certain q
  - La remise sera faite sur le moodle de votre groupe ainsi que sur votre onedrive de l'UQAM.
  - Voir l'énoncé pour le reste de modalités de remise.
 
+## Gitlab Down
+
+Pendant que l'instance Git Lab du département d'informatique est inaccessible, vous pouvez télécharger une archive du contenu [ici](archive-tp2.tgz).
+
 ## FAQ
 
  - Voir le bas de l'énoncé.
